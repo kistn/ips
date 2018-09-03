@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string> https://enjoy.ipacdn4.pw/ipa/games/clashofclans.ipa</string>
+                    <string>https://cdn.appvalley.vip/ipa/378.net.sticktron.g0blin.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.tweakbox.ClashOfHack</string>
+                <string>com.sticktron.g0blin</string>
                 <key>bundle-version</key>
-                <string>0.33.1</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>❬ClashOfHack❭ 🔥KISTN🔥
+                <string>g0blin
 </string>
             </dict>
         </dict>
